@@ -1,0 +1,16 @@
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\bin\Debug\net5.0\PalindromikKelimeSayı.exe
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\bin\Debug\net5.0\PalindromikKelimeSayı.deps.json
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\bin\Debug\net5.0\PalindromikKelimeSayı.runtimeconfig.json
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\bin\Debug\net5.0\PalindromikKelimeSayı.runtimeconfig.dev.json
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\bin\Debug\net5.0\PalindromikKelimeSayı.dll
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\bin\Debug\net5.0\ref\PalindromikKelimeSayı.dll
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\bin\Debug\net5.0\PalindromikKelimeSayı.pdb
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\PalindromikKelimeSayı.csproj.AssemblyReference.cache
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\PalindromikKelimeSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\PalindromikKelimeSayı.AssemblyInfoInputs.cache
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\PalindromikKelimeSayı.AssemblyInfo.cs
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\PalindromikKelimeSayı.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\PalindromikKelimeSayı.dll
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\ref\PalindromikKelimeSayı.dll
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\PalindromikKelimeSayı.pdb
+C:\Users\Merve\source\repos\PalindromikKelimeSayı\PalindromikKelimeSayı\obj\Debug\net5.0\PalindromikKelimeSayı.genruntimeconfig.cache
